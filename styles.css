@@ -20,7 +20,8 @@ body {
     background-image: url(images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: 0 -300px;
+    background-position: 0 -80px;
+    background-color: hsl(225, 100%, 94%);
     display: flex;
     justify-content: center;
     align-items: center;
